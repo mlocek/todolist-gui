@@ -1,4 +1,4 @@
 # todolist
 
-Simple command-line application which is a todolist
+Simple GUI application which is a todolist
 # todolist-gui
